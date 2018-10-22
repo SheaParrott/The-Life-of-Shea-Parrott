@@ -6,20 +6,4 @@ body {
   margin: 0;
   min-height: 100%;
   font: 16px / 1 sans-serif;
-  background-image: url("https://www.ratedwebdesigncompanies.com/wp-content/uploads/job-manager-uploads/main_image/2016/03/background-web-design-images-3-darker-1-1200x800.png")
-  repeat 0 0;
-}
-h2 {
-  color: purple;
-}
-h1 {
-  color: turquoise;
-}
-
-.mylife { 
-  font-family: georgia;
-}
-
-.topics {
-  font-family: serif;
 }
