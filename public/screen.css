@@ -7,3 +7,16 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+h1 {
+  color: lavender;
+}
+h2 {
+  color: darkorange;
+}
+.topics {
+  font-family: Georgia;
+}
+.mylife {
+  color: antiquewhite;
+  font-family: serif;
+}
